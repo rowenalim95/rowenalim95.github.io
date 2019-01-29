@@ -4,12 +4,12 @@ self.__precacheManifest = [
     "url": "/static/media/app_horoscope.622aa90f.png"
   },
   {
-    "revision": "3ec0979e358ad91dde1c",
-    "url": "/static/css/main.77f93d32.chunk.css"
+    "revision": "083198b6945d911fc532",
+    "url": "/static/css/main.2b6d8ac1.chunk.css"
   },
   {
-    "revision": "55d5a787af84a71c39d3d6769955b62a",
-    "url": "/static/media/about-background.55d5a787.svg"
+    "revision": "c7e38e6f4217092fc65b60e60b4ec91b",
+    "url": "/static/media/about-background-mobile.c7e38e6f.svg"
   },
   {
     "revision": "145e18a1859272ef9558",
@@ -36,8 +36,8 @@ self.__precacheManifest = [
     "url": "/static/media/logo_NYP.2e88fcea.png"
   },
   {
-    "revision": "3ec0979e358ad91dde1c",
-    "url": "/static/js/main.3ec0979e.chunk.js"
+    "revision": "083198b6945d911fc532",
+    "url": "/static/js/main.083198b6.chunk.js"
   },
   {
     "revision": "706eafc56215cfd21db7e5a16466dcb9",
@@ -56,19 +56,19 @@ self.__precacheManifest = [
     "url": "/static/media/me.8e180dd2.png"
   },
   {
-    "revision": "3fdc61061fbaaae66d598c5a0673e78a",
-    "url": "/static/media/pdfResume.3fdc6106.pdf"
+    "revision": "4cdcffb2c13075d70b89b3b717921e5c",
+    "url": "/static/media/pdfResume.4cdcffb2.pdf"
   },
   {
-    "revision": "c7e38e6f4217092fc65b60e60b4ec91b",
-    "url": "/static/media/about-background-mobile.c7e38e6f.svg"
+    "revision": "55d5a787af84a71c39d3d6769955b62a",
+    "url": "/static/media/about-background.55d5a787.svg"
   },
   {
     "revision": "145e18a1859272ef9558",
     "url": "/static/css/1.ff801383.chunk.css"
   },
   {
-    "revision": "e18ae4402bc6d420adf53ab90be559ce",
+    "revision": "76217a5631d7605b385dd77398bc42c5",
     "url": "/index.html"
   }
 ];

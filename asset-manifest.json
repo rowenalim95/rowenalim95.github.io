@@ -1,7 +1,7 @@
 {
-  "main.css": "/static/css/main.77f93d32.chunk.css",
-  "main.js": "/static/js/main.3ec0979e.chunk.js",
-  "main.js.map": "/static/js/main.3ec0979e.chunk.js.map",
+  "main.css": "/static/css/main.2b6d8ac1.chunk.css",
+  "main.js": "/static/js/main.083198b6.chunk.js",
+  "main.js.map": "/static/js/main.083198b6.chunk.js.map",
   "static/css/1.ff801383.chunk.css": "/static/css/1.ff801383.chunk.css",
   "static/js/1.145e18a1.chunk.js": "/static/js/1.145e18a1.chunk.js",
   "static/js/1.145e18a1.chunk.js.map": "/static/js/1.145e18a1.chunk.js.map",
@@ -15,12 +15,12 @@
   "static/media/app_CIMRT.png": "/static/media/app_CIMRT.5b04b9ee.png",
   "static/media/app_in_progress.png": "/static/media/app_in_progress.c1916375.png",
   "static/media/me.png": "/static/media/me.8e180dd2.png",
-  "static/media/pdfResume.pdf": "/static/media/pdfResume.3fdc6106.pdf",
-  "static/media/App.css": "/static/media/about-background.55d5a787.svg",
+  "static/media/pdfResume.pdf": "/static/media/pdfResume.4cdcffb2.pdf",
+  "static/media/App.css": "/static/media/about-background-mobile.c7e38e6f.svg",
   "static/media/education.svg": "/static/media/education.5ce1d06f.svg",
-  "static/css/main.77f93d32.chunk.css.map": "/static/css/main.77f93d32.chunk.css.map",
+  "static/css/main.2b6d8ac1.chunk.css.map": "/static/css/main.2b6d8ac1.chunk.css.map",
   "static/css/1.ff801383.chunk.css.map": "/static/css/1.ff801383.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.43db07c25e9fe1a4b4c1491c32c95437.js": "/precache-manifest.43db07c25e9fe1a4b4c1491c32c95437.js",
+  "precache-manifest.00ba6c6ceba4b1858e5477af644749bf.js": "/precache-manifest.00ba6c6ceba4b1858e5477af644749bf.js",
   "service-worker.js": "/service-worker.js"
 }
